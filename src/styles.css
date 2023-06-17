@@ -45,3 +45,23 @@ gap: 1rem;
 .nav li:hover{
     background-color: #777;
 }
+
+.top{
+    display: flex;
+    background-color: aqua;
+    margin: -15px ;
+    justify-content: center;
+    text-align: center;
+    height: 150px;
+    }
+
+
+.products{
+   display: flex;
+   border: 20px black;
+}
+
+.products img{
+    height: 80px;
+    width: 80px;
+}
